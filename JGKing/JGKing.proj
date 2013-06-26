@@ -61,6 +61,7 @@
     <Content Include="Home.html" />
     <Content Include="Images\competitor2.png" />
     <Content Include="Images\jbp_agreed_goal.png" />
+    <Content Include="Images\jbp_new_object_h.png" />
     <Content Include="Images\Order2.png" />
     <Content Include="index.html" />
     <Content Include="jquery-mobile\images\ajax-loader.gif" />
