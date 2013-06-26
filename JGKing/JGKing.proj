@@ -64,6 +64,7 @@
     <Content Include="Images\jbp_new_object_h.png" />
     <Content Include="Images\Order2.png" />
     <Content Include="index.html" />
+    <Content Include="iosyas.html" />
     <Content Include="jquery-mobile\images\ajax-loader.gif" />
     <Content Include="jquery-mobile\images\icons-18-black.png" />
     <Content Include="jquery-mobile\images\icons-18-white.png" />
